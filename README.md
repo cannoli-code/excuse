@@ -20,7 +20,6 @@ $ npm run start
 
 And start coding your Vanilla.js application, update the `src/index.html`, `src/index.css` or `src/app.js` depending on your needs.
 
-## FAQ
 
 #### 1) How do I run my code?
 
